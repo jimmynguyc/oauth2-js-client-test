@@ -1,0 +1,25 @@
+{
+  "name": "oauth2-js-client-test",
+  "version": "0.0.1",
+  "authors": [
+    "Jimmy Ngu <jimmynguyc@gmail.com>"
+  ],
+  "description": "OAuth2 Client for Mindvalley Academy",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jso": "~2.0.1",
+    "modernizr": "~2.8.3",
+    "requirejs": "~2.1.18"
+  }
+}
