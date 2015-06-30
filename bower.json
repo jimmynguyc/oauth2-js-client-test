@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "jquery": "~2.1.4",
-    "jso": "~2.0.1",
+    "jso": "~2.0.0",
     "modernizr": "~2.8.3",
     "requirejs": "~2.1.18"
   }

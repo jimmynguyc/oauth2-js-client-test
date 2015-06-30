@@ -37,7 +37,6 @@
     "commit": "9215a39d71f5881daefe47b033107e8c2a2764c6"
   },
   "_source": "git://github.com/andreassolberg/jso.git",
-  "_target": "~2.0.1",
-  "_originalSource": "jso",
-  "_direct": true
+  "_target": "~2.0.0",
+  "_originalSource": "jso"
 }
